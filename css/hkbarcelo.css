@@ -1,0 +1,34 @@
+body {
+	background: #fdf6cf;
+	color: #650092;
+}
+
+header, section, footer {
+	text-align: center;
+}
+
+header h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 40px;
+    margin: 60px 0 40px 0;
+}
+
+.advice {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.advice h4 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 25px;
+    color: #D4007A;
+}
+
+.advice p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+
+.tenor-gif-embed {
+	margin: 50px auto;
+}
